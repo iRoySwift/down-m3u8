@@ -1,0 +1,1 @@
+copy /b C:\Users\Administrator\Desktop\Roy\Tools\downM3u8\src\download\*.ts "%~dp0"\video.ts
